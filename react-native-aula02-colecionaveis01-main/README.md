@@ -2,5 +2,4 @@
 
 Continuação das aulas de Navegação
 
-Fernanda Sacoli
-
+Otávio Simões Santana
